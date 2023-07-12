@@ -29,7 +29,7 @@
         </item>
         <item>
             <title>Version 2.9</title>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/Divv10/GrandChase-ManagementApp-Releases/main/2_8_1.html</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/Divv10/GrandChase-ManagementApp-Releases/main/2_9.html</sparkle:releaseNotesLink>
             <pubDate>Wed, 12 Jul 2023 22:00:00 +00:00</pubDate>
             <enclosure url="https://github.com/Divv10/GrandChase-ManagementApp-Releases/raw/main/GcManagementAppSetup_2_9.msi"
                        sparkle:version="2.9.0.0"

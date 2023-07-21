@@ -51,5 +51,17 @@
                        type="application/octet-stream"
                        sparkle:signature="lOQU7PYibQ6vPEJh6nQ9Xkf1n7iP+y2RNzmWzSmzFIlk0Lq4xZ9RJT+Zo5B1JH/rFB07ALNxlcVjD8XAn7owDw==" />
         </item>
+        <item>
+            <title>Version 3.1</title>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/Divv10/GrandChase-ManagementApp-Releases/main/3_1.html</sparkle:releaseNotesLink>
+            <pubDate>Fri, 21 Jul 2023 23:00:00 +00:00</pubDate>
+            <enclosure url="https://github.com/Divv10/GrandChase-ManagementApp-Releases/raw/main/GcManagementAppSetup_3_1.msi"
+                       sparkle:version="3.1.0.0"
+					   sparkle:shortVersionString="3.1" 
+                       sparkle:os="windows"
+                       length="11411456"
+                       type="application/octet-stream"
+                       sparkle:signature="rYMn59ohbIHb49eccxI9EirN4977tDTGnBtJ4aB/SHbjjNn8TvD3lhpy4KKlMPmObD5nLjaxP97q44fAyWChAg==" />
+        </item>
     </channel>
 </rss>

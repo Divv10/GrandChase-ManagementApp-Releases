@@ -99,5 +99,17 @@
                        type="application/octet-stream"
                        sparkle:signature="BAz31sw9mDQK3GyPWGlCK5XHqn6/wl7HaWGz2WoTCI1Ax5CbHZGPGrhXJUu+WJ4xlVbBc9VZtqbXjJl91+I1Cw==" />
         </item>
+        <item>
+            <title>Version 3.4</title>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/Divv10/GrandChase-ManagementApp-Releases/main/3_4.html</sparkle:releaseNotesLink>
+            <pubDate>Fri, 13 Oct 2023 07:00:00 +00:00</pubDate>
+            <enclosure url="https://github.com/Divv10/GrandChase-ManagementApp-Releases/raw/main/GcManagementAppSetup_3_4.msi"
+                       sparkle:version="3.4.0.0"
+					   sparkle:shortVersionString="3.4" 
+                       sparkle:os="windows"
+                       length="11411456"
+                       type="application/octet-stream"
+                       sparkle:signature="tgQqWxJM5LeoV8Z4A+o9qFaI+8uNyhP1RtPP3VNEszFR7SoVN5BuR2MZpjZJ4uVF9OhjYLN5Xxk1S7rpMMKoDw==" />
+        </item>
     </channel>
 </rss>

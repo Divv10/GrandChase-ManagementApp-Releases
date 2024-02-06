@@ -159,5 +159,17 @@
                        type="application/octet-stream"
                        sparkle:signature="/L3pwUNBg7n7vXDghQtumem7h6zL/6y57s09T1DxOlCyyiZuvvci0d0x6tKMBC2wRXM1fzbrILdJabqrjTXiAg==" />
         </item>
+        <item>
+            <title>Version 3.7.1</title>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/Divv10/GrandChase-ManagementApp-Releases/main/3_7_1.html</sparkle:releaseNotesLink>
+            <pubDate>Tue, 06 Feb 2024 03:00:00 +00:00</pubDate>
+            <enclosure url="https://github.com/Divv10/GrandChase-ManagementApp-Releases/raw/main/GcManagementAppSetup_3_7_1.msi"
+                       sparkle:version="3.7.1.0"
+					   sparkle:shortVersionString="3.7.1" 
+                       sparkle:os="windows"
+                       length="11411456"
+                       type="application/octet-stream"
+                       sparkle:signature="mbc013fxY9YYEvVnpDzmYBHx8XbbF3FIIksSDvG8e9zXji2lMjCj31oyo45uFf1NtmU5youcYSYVT8z2sGR3Bg==" />
+        </item>
     </channel>
 </rss>

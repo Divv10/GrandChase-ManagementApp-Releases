@@ -93,11 +93,23 @@
             <pubDate>Mon, 01 Apr 2024 20:00:00 +00:00</pubDate>
             <enclosure url="https://github.com/Divv10/GrandChase-ManagementApp-Releases/raw/main/GcManagementAppSetup_4_0_1.msi"
                        sparkle:version="4.0.1.0"
-					   sparkle:shortVersionString="4.0" 
+					   sparkle:shortVersionString="4.0.1" 
                        sparkle:os="windows"
                        length="11411456"
                        type="application/octet-stream"
                        sparkle:signature="tidRxThH4zuPcm1D17t/G1Ikflz8SMicQVXds1RFt5Cxk0WFY0iroc7sitwVwZJ5tyk0UqyxtQbTlbRzVgYSDA==" />
+        </item>
+        <item>
+            <title>Version 4.0.2</title>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/Divv10/GrandChase-ManagementApp-Releases/main/4_0_2.html</sparkle:releaseNotesLink>
+            <pubDate>Mon, 02 Apr 2024 10:00:00 +00:00</pubDate>
+            <enclosure url="https://github.com/Divv10/GrandChase-ManagementApp-Releases/raw/main/GcManagementAppSetup_4_0_2.msi"
+                       sparkle:version="4.0.2.0"
+					   sparkle:shortVersionString="4.0.2" 
+                       sparkle:os="windows"
+                       length="11411456"
+                       type="application/octet-stream"
+                       sparkle:signature="kIx47xVaVlBK5yjGgYSdElFXU9zWqNeIBYDESBMCJNsfwba+rnUHTDpGof4FW/kGx+o+e1dCYzhusaSMvEqCCA==" />
         </item>
     </channel>
 </rss>

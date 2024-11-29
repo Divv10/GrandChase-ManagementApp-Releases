@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>GrandChase Resource Manager</title>
+        <language>en</language>
+		<item>
+            <title>Version 4.2</title>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/Divv10/GrandChase-ManagementApp-Releases/main/4_2.html</sparkle:releaseNotesLink>
+            <pubDate>Fri, 29 Nov 2024 09:21:20 +00:00</pubDate>
+            <enclosure url="https://github.com/Divv10/GrandChase-ManagementApp-Releases/raw/main/GcManagementAppSetup_4_2.msi"
+                       sparkle:version="4.2.0.0"
+					   sparkle:shortVersionString="4.2" 
+                       sparkle:os="windows"
+                       length="11411456"
+                       type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>

@@ -6,7 +6,7 @@
 	<item>
             <title>Version 4.4.1</title>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/Divv10/GrandChase-ManagementApp-Releases/main/4_4_1.html</sparkle:releaseNotesLink>
-            <pubDate>Thurs, 24 April 2025 09:21:20 +00:00</pubDate>
+            <pubDate>Thurs, 24 April 2025 09:22:20 +00:00</pubDate>
             <enclosure url="https://github.com/Divv10/GrandChase-ManagementApp-Releases/raw/main/GcManagementAppSetup_4_4_1.msi"
                        sparkle:version="4.4.1.0"
 					   sparkle:shortVersionString="4.4.1" 

@@ -4,12 +4,12 @@
         <title>GrandChase Resource Manager</title>
         <language>en</language>
 	<item>
-            <title>Version 4.4.1</title>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/Divv10/GrandChase-ManagementApp-Releases/main/4_4_1.html</sparkle:releaseNotesLink>
-            <pubDate>Thurs, 24 April 2025 09:22:20 +00:00</pubDate>
-            <enclosure url="https://github.com/Divv10/GrandChase-ManagementApp-Releases/raw/main/GcManagementAppSetup_4_4_1.msi"
-                       sparkle:version="4.4.1.0"
-					   sparkle:shortVersionString="4.4.1" 
+            <title>Version 4.6.5</title>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/Divv10/GrandChase-ManagementApp-Releases/main/4_6_5.html</sparkle:releaseNotesLink>
+            <pubDate>Sun, 31 August 2025 09:22:20 +00:00</pubDate>
+            <enclosure url="https://github.com/Divv10/GrandChase-ManagementApp-Releases/raw/main/GcManagementAppSetup_4_6_5.msi"
+                       sparkle:version="4.6.5.0"
+					   sparkle:shortVersionString="4.6.5" 
                        sparkle:os="windows"
                        length="11411456"
                        type="application/octet-stream" />

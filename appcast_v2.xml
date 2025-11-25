@@ -7,7 +7,7 @@
             <title>Version 4.7.1</title>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/Divv10/GrandChase-ManagementApp-Releases/main/4_7_1.html</sparkle:releaseNotesLink>
             <pubDate>Tue, 25 November 2025 00:00:00 +00:00</pubDate>
-            <enclosure url="https://github.com/Divv10/GrandChase-ManagementApp-Releases/raw/main/GcManagementAppSetup_4_7_0.msi"
+            <enclosure url="https://github.com/Divv10/GrandChase-ManagementApp-Releases/raw/main/GcManagementAppSetup_4_7_1.msi"
                        sparkle:version="4.7.1.0"
 					   sparkle:shortVersionString="4.7.1" 
                        sparkle:os="windows"
